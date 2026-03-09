@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+# Disallow access to backend data and includes
+Disallow: /data/
+Disallow: /includes/
+Disallow: /lang/
+
+# Point to the dynamic sitemap
+Sitemap: https://naqiuddinrazak.com/sitemap.php

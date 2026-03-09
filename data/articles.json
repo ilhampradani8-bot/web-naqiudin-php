@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1709000001",
+        "title": "5 Smart Financial Tips for Young Families",
+        "slug": "5-smart-financial-tips-for-young-families",
+        "excerpt": "Discover the first crucial steps newly married couples should take to secure a stable and stress-free financial future.",
+        "content": "<p><b><span style=\"font-size: 36px;\">test1<\/span><\/b><\/p><p><b><span style=\"font-size: 36px;\"><span style=\"font-size: 11px;\">test2<\/span><\/span><\/b><\/p><p><span style=\"font-size: 36px;\"><span style=\"font-size: 11px;\">test3<br><\/span>aaaaaaaaaa<br><\/span><b><br><\/b><\/p>",
+        "image": "https:\/\/images.unsplash.com\/photo-1579621970588-a3f5ce5b0eb8?q=80&w=800&auto=format&fit=crop",
+        "date": "2026-02-26"
+    },
+    {
+        "id": "1709000002",
+        "title": "Understanding Takaful vs Conventional Insurance",
+        "slug": "understanding-takaful-vs-insurance",
+        "excerpt": "What is the real difference? Learn how Takaful operates on the principle of mutual assistance (Ta'awun).",
+        "image": "https:\/\/images.unsplash.com\/photo-1450101499163-c8848c66cb85?q=80&w=800&auto=format&fit=crop",
+        "date": "2026-02-20"
+    },
+    {
+        "id": "1709000003",
+        "title": "Why Real Estate is the Best Hedge Against Inflation",
+        "slug": "real-estate-hedge-inflation",
+        "excerpt": "As prices go up, the value of your money goes down. Here is why property investment protects your wealth.",
+        "image": "https:\/\/images.unsplash.com\/photo-1560518883-ce09059eeffa?q=80&w=800&auto=format&fit=crop",
+        "date": "2026-02-15"
+    }
+]
